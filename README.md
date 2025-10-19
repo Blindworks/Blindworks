@@ -15,8 +15,7 @@ Full‑Stack Developer (Java/Spring Boot · Angular) — passionate about clean 
 
 
 ### 🚀 Currently Working On
-- Building a **Flow‑Market Platform** (Angular 18 + Angular Material · Spring Boot 3.3 · MySQL) with events, Google Maps integration & JWT authentication.
-- Integrating the **SWC Price Determination Tool** into **SkyChain** (Swiss WorldCargo) — Java/Spring Boot.
+- Building a **FlohMarket Platform** (Angular 18 + Angular Material · Spring Boot 3.3 · MySQL) with events, Google Maps integration & JWT authentication.
 - 📦 Side Project: **Raspberry Pi + Camera** barcode scanner → inventory tracking & smart shopping list.
 - Writing comparisons like **ChatGPT‑4 vs. Claude 3.5 vs. Copilot** for real-world full‑stack development.
 
@@ -38,7 +37,6 @@ Full‑Stack Developer (Java/Spring Boot · Angular) — passionate about clean 
 
 ### ✨ Highlighted Repositories
 - **flow‑market** — Platform for community flea markets (Angular/Spring Boot).
-- **skychain‑swc‑integration** — Integration logic & scheduler.
 - **rpi‑inventory** — Barcode scanner using ESP32/Raspberry Pi.
 > Tip: Pin your best repositories and add short screenshots or GIF demos.
 
