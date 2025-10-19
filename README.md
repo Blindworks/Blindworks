@@ -6,7 +6,7 @@ Full‑Stack Developer (Java/Spring Boot · Angular) — passionate about clean 
 
 <p align="center">
 <a href="https://github.com/Blindworks">GitHub</a> ·
-<a href="https://www.linkedin.com/in/Blindworks/">LinkedIn</a> ·
+<a href="https://www.linkedin.com/in/benedikt-lind-5970242a1/">LinkedIn</a> ·
 <a href="https://blindworks.github.io">Website</a>
 </p>
 
@@ -58,7 +58,7 @@ I’m a fast runner — any treadmill that can keep up earns my respect. ;)
 
 
 ### 📫 Contact
-- 💼 LinkedIn: https://www.linkedin.com/in/Blindworks/
+- 💼 LinkedIn: https://www.linkedin.com/in/benedikt-lind-5970242a1/
 - 🌐 Website: https://blindworks.github.io
 
 
