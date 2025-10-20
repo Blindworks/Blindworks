@@ -14,10 +14,10 @@ Full‑Stack Developer (Java/Spring Boot · Angular) — passionate about clean 
 ---
 
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=BLINDWORKS&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLINDWORKS&layout=compact"/>
-</p> 
+</div> 
 
 
 
