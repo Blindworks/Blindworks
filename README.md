@@ -86,6 +86,7 @@ I’m a fast runner — any treadmill that can keep up earns my respect. 😄
   <img alt="Java" src="https://img.shields.io/badge/Java-21-informational?logo=openjdk&color=ED8B00" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-3.3-informational?logo=springboot&color=6DB33F" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-18-informational?logo=angular&color=DD0031" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-20-informational?logo=angular&color=DD0031" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5-informational?logo=typescript&color=3178C6" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-8-informational?logo=mysql&color=005C84" />
 </p>
