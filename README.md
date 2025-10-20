@@ -13,6 +13,10 @@ Full‑Stack Developer (Java/Spring Boot · Angular) — passionate about clean 
 
 ---
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BLINDWORKS&show_icons=true&theme=dark)](https://github.com/BLINDWORKS/github-readme-stats)
+
+
+---
 
 ### 🚀 Currently Working On
 - Building a **FlohMarket Platform** (Angular 18 + Angular Material · Spring Boot 3.3 · MySQL) with events, Google Maps integration & JWT authentication.
