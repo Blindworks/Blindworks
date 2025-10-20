@@ -19,6 +19,7 @@ Full‑Stack Developer (Java/Spring Boot · Angular) — passionate about clean 
 ---
 
 ### 🚀 Currently Working On
+- Fun Project: **QuizMasTime** A quiz for cildren as a advent calendar. (Angular 20 + Angular Material as Frontend and SpringBoot as Backend)
 - Building a **FlohMarket Platform** (Angular 18 + Angular Material · Spring Boot 3.3 · MySQL) with events, Google Maps integration & JWT authentication.
 - 📦 Side Project: **Raspberry Pi + Camera** barcode scanner → inventory tracking & smart shopping list.
 - Writing comparisons like **ChatGPT‑4 vs. Claude 3.5 vs. Copilot** for real-world full‑stack development.
@@ -26,7 +27,7 @@ Full‑Stack Developer (Java/Spring Boot · Angular) — passionate about clean 
 
 ### 🧰 Tech Stack
 **Backend:** Java 21 · Spring Boot 3.3 · JPA/Hibernate · Liquibase · MapStruct · Lombok · OpenAPI · Apache POI
-**Frontend:** Angular 17/18 (Standalone) · Angular Material · TypeScript · FlexLayout · SCSS
+**Frontend:** Angular 17-20 (Standalone) · Angular Material · TypeScript · FlexLayout · SCSS
 **DB/Infra:** MySQL · Railway · Netlify (Frontend)
 **Auth/Security:** JWT, HttpInterceptor, ProfileService
 **APIs/Libs:** Google Maps, sessionStorage, REST
