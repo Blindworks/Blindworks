@@ -14,7 +14,7 @@ Full‑Stack Developer (Java/Spring Boot · Angular) — passionate about clean 
 ---
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BLINDWORKS&show_icons=true&theme=dark)](https://github.com/BLINDWORKS/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact)](https://github.com/DEIN_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BLINDWORKS&layout=compact)](https://github.com/BLINDWORKS)
 
 
 
