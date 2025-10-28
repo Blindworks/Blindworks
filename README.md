@@ -60,7 +60,20 @@ Full-Stack Developer (Java / Spring Boot · Angular) — passionate about clean 
 
 ## ✨ Highlighted Repositories
 
-- **chatq-assist** — AI-powered FAQ chatbot with semantic search & GPT-4 integration (Spring Boot + Angular).  
+### 🤖 **chatq-assist** — AI-powered FAQ chatbot system
+_Spring Boot 3.2 · LangChain4j · OpenAI GPT-4 · PostgreSQL + pgvector · Angular_
+
+**Key Features:**
+- 🧠 **Semantic Search** — Vector similarity using OpenAI embeddings (1536 dimensions)
+- 🔄 **RAG Pipeline** — GPT-4 generates natural answers based on FAQ context + conversation history
+- 🏢 **Multi-Tenant** — Header-based isolation for multiple clients (`X-Tenant-ID`)
+- 🔒 **GDPR-compliant** — Privacy by design, data residency in EU
+- 🎯 **Smart Handoff** — Automatic agent escalation when confidence < 0.75
+- 💬 **Session Management** — Persistent conversations with context retention
+- 🎨 **Embeddable Widget** — Angular standalone component for any website
+
+---
+
 - **flow-market** — Marketplace for community flea markets (Angular + Spring Boot).  
 - **rpi-inventory** — Barcode scanner using ESP32 / Raspberry Pi.
 
