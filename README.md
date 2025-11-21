@@ -17,93 +17,83 @@ Full-Stack Developer (Java / Spring Boot · Angular) — passionate about clean 
 
 ---
 
-## 🚀 Building & Maintaining
+## 🚀 Currently Working On
 
-- 🤖 **ChatQ Assist** — LLM-powered FAQ/Support chatbot with RAG pipeline for SMBs.  
-  _Spring Boot 3.2 · LangChain4j · OpenAI GPT-4 · PostgreSQL + pgvector · Angular Widget_  
-  Semantic search via vector embeddings · GDPR-compliant · Multi-tenancy support
+- **ChatQ Assist** — LLM-powered FAQ/Support chatbot with RAG pipeline for SMBs  
+  _Spring Boot 3.2 · LangChain4j · OpenAI GPT-4 · PostgreSQL + pgvector · Angular Widget_
 
-- 🎄 **QuizMasTime** — Shipped Advent quiz app for children.  
-  _Angular 20 + Angular Material frontend · Spring Boot backend_  
-  Age-adaptive questions for 6–10 year olds · Used as a digital Advent calendar
+- **QuizMasTime** — Advent calendar quiz app for children  
+  _Angular 20 + Angular Material · Spring Boot_
 
-- 🧭 **FlohMarket Platform** — Community marketplace with events, Google Maps integration & JWT authentication.  
-  _Angular 18 + Angular Material · Spring Boot 3.3 · MySQL_
+- **FlohMarket Platform** — Community marketplace with events, mapping, and JWT security  
+  _Angular 18 · Spring Boot 3.3 · MySQL_
 
-- 📦 **Raspberry Pi + Camera** — Barcode scanner for inventory tracking & dynamic shopping lists.  
-  _ESP32 / Pi + Spring Boot + Angular_
+- **Raspberry Pi + Camera Inventory System** — Barcode scanning & dynamic shopping lists  
+  _ESP32 / Pi · Spring Boot · Angular_
 
-- ✍️ Writing comparative articles like **ChatGPT-4 vs Claude 3.5 vs Copilot** for real-world full-stack development.
+- Writing comparative articles on **ChatGPT-4 vs Claude 3.5 vs GitHub Copilot**
 
 ---
 
 ## 🧰 Tech Stack
 
-**Backend:** Java 21 · Spring Boot 3.3 · JPA/Hibernate · Liquibase · Flyway · MapStruct · Lombok · OpenAPI · Apache POI  
-**AI/ML:** LangChain4j · OpenAI GPT-4 · Embeddings · RAG (Retrieval-Augmented Generation)  
-**Frontend:** Angular 17 – 20 (Standalone) · Angular Material · TypeScript 5 · FlexLayout · SCSS  
-**Infra / DB:** MySQL · PostgreSQL (pgvector) · Railway (Backend) · Netlify (Frontend) · Docker  
-**Auth / Security:** JWT · HttpInterceptor · ProfileService · Multi-Tenancy (Header-based)  
-**APIs / Libs:** Google Maps · OpenAI API · sessionStorage · REST  
-**Tools:** IntelliJ IDEA · GitHub Actions (CI) · Docker · Maven
+**Backend:** Java 21 · Spring Boot 3.3 · JPA/Hibernate · Liquibase · Flyway · Mapstruct · Lombok · OpenAPI · Apache POI  
+**AI/ML:** LangChain4j · OpenAI GPT-4 · Vector embeddings · RAG  
+**Frontend:** Angular 17–20 (Standalone) · Angular Material · TypeScript 5 · FlexLayout · SCSS  
+**Infrastructure:** MySQL · PostgreSQL (pgvector) · Railway · Netlify · Docker  
+**Security:** JWT · HttpInterceptor · Multi-Tenancy  
+**APIs / Libs:** Google Maps · OpenAI API · REST · sessionStorage  
+**Tools:** IntelliJ IDEA · GitHub Actions · Docker · Maven
 
 ---
 
 ## 🧩 Architecture & Patterns
 
-- Building **LLM-powered applications** with RAG pipelines using vector similarity search (pgvector).  
-- Experience with **microservices** and REST communication.  
-- Custom **null-caching strategy** — placeholder entities stored in cache and validated by ID.  
-- Thread pool for **low-priority background processing** and long-running tasks.  
-- **Multi-tenant architecture** with header-based tenant isolation.
+- LLM-powered applications with RAG pipelines  
+- Microservices & REST communication  
+- Custom **null-caching** strategy for efficient service calls  
+- Thread pools for long-running background processes  
+- Header-based multi-tenant architecture
 
 ---
 
-## ✨ Highlighted Repositories
+## 📌 Highlighted Repositories
 
-### 🤖 **chatq-assist** — AI-powered FAQ chatbot system
+### **chatq-assist** — AI-powered FAQ chatbot system  
 _Spring Boot 3.2 · LangChain4j · OpenAI GPT-4 · PostgreSQL + pgvector · Angular_
 
-**Key Features:**
-- 🧠 **Semantic Search** — Vector similarity using OpenAI embeddings (1536 dimensions)
-- 🔄 **RAG Pipeline** — GPT-4 generates natural answers based on FAQ context + conversation history
-- 🏢 **Multi-Tenant** — Header-based isolation for multiple clients (`X-Tenant-ID`)
-- 🔒 **GDPR-compliant** — Privacy by design, data residency in EU
-- 🎯 **Smart Handoff** — Automatic agent escalation when confidence < 0.75
-- 💬 **Session Management** — Persistent conversations with context retention
-- 🎨 **Embeddable Widget** — Angular standalone component for any website
-
-- **QuizMasTime** — Digital Advent calendar quiz for kids (Angular + Spring Boot).  
-- **flow-market** — Marketplace for community flea markets (Angular + Spring Boot).  
-- **rpi-inventory** — Barcode scanner using ESP32 / Raspberry Pi.
-
-> 💡 Tip: Pin your best repositories and include short screenshots or GIFs for visual appeal.
+**Key Features:**  
+- Semantic Search (vector similarity)  
+- RAG pipeline with GPT-4  
+- Multi-tenant request isolation (`X-Tenant-ID`)  
+- GDPR-compliant data design  
+- Confidence-based escalation workflow  
+- Angular widget for easy embedding
 
 ---
 
-## 💬 Topics & Writing
+- **QuizMasTime** — Advent quiz app for children (Angular + Spring Boot)  
+- **flow-market** — Marketplace for community flea markets  
+- **rpi-inventory** — ESP32/Raspberry barcode scanning system
+
+---
+
+## 📝 Topics & Writing
 
 - Java & Spring Boot best practices  
-- LLM Integration & RAG pipelines (LangChain4j, OpenAI)  
-- Vector databases & semantic search (pgvector)  
-- Angular Standalone patterns (without NgModule)  
-- Developer Experience, error handling & interceptors  
-- Urban mobility & infrastructure — data-driven and activist perspective  
-- 3D Printing (Bambu Lab), Meshmixer, Home Assistant  
-- Vegan cooking — from tofu creations to creamy soups 🍲  
-
----
-
-## 🏃‍♂️ Fun Fact
-
-I'm a fast runner — any treadmill that can keep up earns my respect. 😄
+- LLM integration and vector search  
+- Angular standalone architecture  
+- Developer experience & error handling  
+- Mobility, energy transition & civic infrastructure  
+- 3D printing, Home Assistant, IoT  
+- Vegan cooking and culinary experiments
 
 ---
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/benedikt-lind-5970242a1/)  
-- 🌐 [Website](https://blindworks.github.io)
+- [LinkedIn](https://www.linkedin.com/in/benedikt-lind-5970242a1/)  
+- [Website](https://blindworks.github.io)
 
 ---
 
