@@ -17,14 +17,15 @@ Full-Stack Developer (Java / Spring Boot · Angular) — passionate about clean 
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 Building & Maintaining
 
 - 🤖 **ChatQ Assist** — LLM-powered FAQ/Support chatbot with RAG pipeline for SMBs.  
   _Spring Boot 3.2 · LangChain4j · OpenAI GPT-4 · PostgreSQL + pgvector · Angular Widget_  
   Semantic search via vector embeddings · GDPR-compliant · Multi-tenancy support
 
-- 🎄 **QuizMasTime** — A quiz for children as an Advent calendar.  
-  _Angular 20 + Angular Material frontend · Spring Boot backend_
+- 🎄 **QuizMasTime** — Shipped Advent quiz app for children.  
+  _Angular 20 + Angular Material frontend · Spring Boot backend_  
+  Age-adaptive questions for 6–10 year olds · Used as a digital Advent calendar
 
 - 🧭 **FlohMarket Platform** — Community marketplace with events, Google Maps integration & JWT authentication.  
   _Angular 18 + Angular Material · Spring Boot 3.3 · MySQL_
@@ -72,8 +73,7 @@ _Spring Boot 3.2 · LangChain4j · OpenAI GPT-4 · PostgreSQL + pgvector · Angu
 - 💬 **Session Management** — Persistent conversations with context retention
 - 🎨 **Embeddable Widget** — Angular standalone component for any website
 
----
-
+- **QuizMasTime** — Digital Advent calendar quiz for kids (Angular + Spring Boot).  
 - **flow-market** — Marketplace for community flea markets (Angular + Spring Boot).  
 - **rpi-inventory** — Barcode scanner using ESP32 / Raspberry Pi.
 
