@@ -23,7 +23,7 @@ Full-Stack Developer (Java / Spring Boot · Angular) — focused on clean archit
 
 ### **Household Manager**
 Household utility tracking with meter readings, weekly consumption insights, and cost overview.
-_Spring Boot · Angular (Standalone) · PostgreSQL/MySQL_
+_Spring Boot · Angular (Standalone) · MariaDB/MySQL_
 
 - Dashboard with latest readings, weekly consumption, and cost estimates
 - Trend indicators vs. previous week
