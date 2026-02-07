@@ -1,5 +1,3 @@
-# household-manager
-
 <h1 align="center">Hi, I'm Blindworks </h1>
 <p align="center">
 Full-Stack Developer (Java / Spring Boot · Angular) — focused on clean architecture, developer experience, and pragmatic solutions.
