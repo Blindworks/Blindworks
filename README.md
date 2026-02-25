@@ -19,8 +19,27 @@ Full-Stack Developer (Java / Spring Boot · Angular) — focused on clean archit
 
 ## Current Projects
 
+---
+
+### **PACR — Adaptive Running Intelligence**
+Performance-adaptive running system that dynamically adjusts training based on real effort, recovery state and historical performance.  
+_Angular 20 (Standalone) · Spring Boot 3.3 · PostgreSQL · Garmin/Strava Integration · AI-Driven Training Logic_
+
+- Adaptive pacing engine based on performance deviation
+- Automatic workload correction (volume & intensity)
+- Fatigue-aware progression model
+- VO₂max trend interpretation & stamina modeling
+- Garmin / Strava data ingestion pipeline
+- Planned Whoop-style recovery integration
+- Structured training blocks (Base / Build / Peak logic)
+- Clean domain separation with scalable SaaS-ready architecture
+
+> Not another static training plan — but a feedback-driven performance system.
+
+---
+
 ### **Household Manager**
-Household utility tracking with meter readings, weekly consumption insights, and cost overview.
+Household utility tracking with meter readings, weekly consumption insights, and cost overview.  
 _Spring Boot · Angular (Standalone) · MariaDB/MySQL_
 
 - Dashboard with latest readings, weekly consumption, and cost estimates
@@ -32,7 +51,7 @@ _Spring Boot · Angular (Standalone) · MariaDB/MySQL_
 ---
 
 ### **Treadmill Scanner**
-ESP32-based IoT system for live extraction and monitoring of treadmill data via Bluetooth Low Energy.
+ESP32-based IoT system for live extraction and monitoring of treadmill data via Bluetooth Low Energy.  
 _ESP32 DevKit · PlatformIO · NimBLE · Node.js · SQLite · FTMS Protocol_
 
 - Real-time BLE connection to Reebok Z-Tech treadmill
@@ -41,13 +60,13 @@ _ESP32 DevKit · PlatformIO · NimBLE · Node.js · SQLite · FTMS Protocol_
 - Embedded web interface for live monitoring and control
 - Node.js backend with SQLite for centralized data storage
 - HTML dashboard with live charts and metrics
-- Direct MAC address connection for 2-5s connection time
+- Direct MAC address connection (2–5s connection time)
 - Thread-safe status management and watchdog timer optimization
 
 ---
 
 ### **ChatQ Assist**
-AI-powered FAQ/Support chatbot with RAG pipeline for SMBs.
+AI-powered FAQ/Support chatbot with RAG pipeline for SMBs.  
 _Spring Boot 3.2 · LangChain4j · OpenAI GPT-4 · PostgreSQL + pgvector · Angular Widget_
 
 - Vector-based semantic search
@@ -59,30 +78,30 @@ _Spring Boot 3.2 · LangChain4j · OpenAI GPT-4 · PostgreSQL + pgvector · Angu
 ---
 
 ### **MainStream**
-Inclusive running app focused on consistency, everyday motivation, and accessible challenges — not elite performance.
+Inclusive running app focused on consistency, everyday motivation, and accessible challenges — not elite performance.  
 _Angular 20 (Standalone) · Spring Boot 3.3 · PostgreSQL/MySQL · Map/GPX Integration_
 
 - Consistency goals (daily/weekly running habits)
-- Waypoint missions that unlock specific locations
-- Time-based challenges (sunrise runs, after-work loops, scheduled runs)
-- Gamification that rewards participation rather than speed
-- GPX import/export and map-based route visualisation
-- Mobile-first UI designed for all runner levels
+- Waypoint missions unlocking specific locations
+- Time-based challenges (sunrise runs, after-work loops)
+- Participation-focused gamification
+- GPX import/export and map-based route visualization
+- Mobile-first UI design
 
 ---
 
 ### **QuizMasTime**
-Digital Advent calendar quiz for children (ages 6–10).
+Digital Advent calendar quiz for children (ages 6–10).  
 _Angular 20 + Angular Material · Spring Boot Backend_
 
 - Age-adaptive question sets
 - Unlockable daily quiz challenges
-- Designed as a fun, lightweight Advent experience
+- Lightweight seasonal experience
 
 ---
 
 ### **FlohMarket Platform**
-Community marketplace with events, Google Maps integration and JWT security.
+Community marketplace with events, Google Maps integration and JWT security.  
 _Angular 18 · Angular Material · Spring Boot 3.3 · MySQL_
 
 - User and stand management
@@ -93,7 +112,7 @@ _Angular 18 · Angular Material · Spring Boot 3.3 · MySQL_
 ---
 
 ### **Raspberry Pi + Camera Inventory System**
-Barcode scanner for household inventory and dynamic shopping lists.
+Barcode scanner for household inventory and dynamic shopping lists.  
 _ESP32 / Raspberry Pi · Spring Boot · Angular_
 
 - Real-time barcode recognition
@@ -104,19 +123,20 @@ _ESP32 / Raspberry Pi · Spring Boot · Angular_
 
 ## Tech Stack
 
-**Backend:** Java 21 · Spring Boot 3.3 · JPA/Hibernate · Liquibase · Flyway · Lombok · MapStruct · OpenAPI · Apache POI
-**AI/ML:** LangChain4j · OpenAI GPT-4 · Embeddings · RAG (Retrieval-Augmented Generation)
-**Frontend:** Angular 17–20 (Standalone) · Angular Material · TypeScript 5 · FlexLayout · SCSS
-**IoT/Embedded:** ESP32 · PlatformIO · NimBLE · ArduinoJson · FTMS Protocol · BLE
-**Infrastructure:** MySQL · PostgreSQL + pgvector · SQLite · Railway · Netlify · Docker
-**Security:** JWT · HttpInterceptor · ProfileService · Multi-Tenancy
-**APIs / Libraries:** Google Maps · OpenAI API · REST · sessionStorage
-**Tools:** IntelliJ IDEA · GitHub Actions · Docker · Maven · PlatformIO
+**Backend:** Java 21 · Spring Boot 3.3 · JPA/Hibernate · Liquibase · Flyway · Lombok · MapStruct · OpenAPI · Apache POI  
+**AI/ML:** LangChain4j · OpenAI GPT-4 · Embeddings · RAG  
+**Frontend:** Angular 17–20 (Standalone) · Angular Material · TypeScript 5 · FlexLayout · SCSS  
+**IoT/Embedded:** ESP32 · PlatformIO · NimBLE · ArduinoJson · FTMS Protocol · BLE  
+**Infrastructure:** MySQL · PostgreSQL + pgvector · SQLite · Railway · Netlify · Docker  
+**Security:** JWT · HttpInterceptor · ProfileService · Multi-Tenancy  
+**APIs / Libraries:** Google Maps · OpenAI API · REST · sessionStorage  
+**Tools:** IntelliJ IDEA · GitHub Actions · Docker · Maven · PlatformIO  
 
 ---
 
 ## Architecture & Patterns
 
+- Adaptive training feedback loops (performance deviation model)
 - RAG-based LLM applications using vector similarity search
 - Microservices and REST communication
 - Modular IoT firmware with thread-safe status management
@@ -130,10 +150,11 @@ _ESP32 / Raspberry Pi · Spring Boot · Angular_
 
 ## Highlighted Repositories
 
-- **household-manager** — Household utility tracking with readings, weekly consumption, and cost overview
-- **treadmill-scanner** — ESP32 BLE system for live treadmill data extraction and monitoring
-- **chatq-assist** — AI-powered FAQ chatbot system (Spring Boot + Angular + pgvector)
-- **mainstream** — Inclusive running app with everyday challenges, waypoint missions and GPX integration
+- **pacr** — Adaptive performance-driven running intelligence platform
+- **household-manager** — Household utility tracking with readings and cost insights
+- **treadmill-scanner** — ESP32 BLE system for treadmill data extraction
+- **chatq-assist** — AI-powered FAQ chatbot system
+- **mainstream** — Inclusive running app with everyday challenges
 - **quizmastime** — Digital Advent quiz for children
 - **flow-market** — Marketplace platform for community flea markets
 - **rpi-inventory** — Barcode scanner system using ESP32 / Raspberry Pi
@@ -143,6 +164,7 @@ _ESP32 / Raspberry Pi · Spring Boot · Angular_
 ## Writing & Topics
 
 - Java & Spring Boot best practices
+- Adaptive training algorithms & performance modeling
 - LLM integration & semantic search systems
 - Angular standalone architecture patterns
 - IoT & embedded systems development (ESP32, BLE)
@@ -171,4 +193,5 @@ _ESP32 / Raspberry Pi · Spring Boot · Angular_
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-8-informational?logo=mysql&color=005C84" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-Enabled-informational?logo=docker&color=2496ED" />
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-GPT--4-informational?logo=openai&color=412991" />
+  <img alt="PACR" src="https://img.shields.io/badge/PACR-Adaptive%20Running-informational?color=7A3FF2" />
 </p>
