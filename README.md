@@ -18,12 +18,6 @@ Full-Stack Developer (Java / Spring Boot · Angular) — focused on clean archit
 ---
 
 ---
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-![Java](https://img.shields.io/badge/Java-17-orange)
-![Angular](https://img.shields.io/badge/Angular-17-red)
-![Docker](https://img.shields.io/badge/Docker-blue)
----
 
 ## Current Projects
 
