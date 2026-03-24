@@ -17,8 +17,6 @@ Full-Stack Developer (Java / Spring Boot · Angular) — focused on clean archit
 
 ---
 
----
-
 ## Current Projects
 
 ---
