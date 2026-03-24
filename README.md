@@ -19,6 +19,7 @@ Full-Stack Developer (Java / Spring Boot · Angular) — focused on clean archit
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Blindworks&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blindworks)
 ---
 
 ## Current Projects
